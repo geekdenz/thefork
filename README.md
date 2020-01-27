@@ -1,8 +1,11 @@
-# The Fuck [![Version][version-badge]][version-link] [![Build Status][travis-badge]][travis-link] [![Windows Build Status][appveyor-badge]][appveyor-link] [![Coverage][coverage-badge]][coverage-link] [![MIT License][license-badge]](LICENSE.md)
+# The Fork [![Version][version-badge]][version-link] [![Build Status][travis-badge]][travis-link] [![Windows Build Status][appveyor-badge]][appveyor-link] [![Coverage][coverage-badge]][coverage-link] [![MIT License][license-badge]](LICENSE.md)
 
-*The Fuck* is a magnificent app, inspired by a [@liamosaur](https://twitter.com/liamosaur/)
+*The Fork* is a magnificent app, inspired by a [@liamosaur](https://twitter.com/liamosaur/)
 [tweet](https://twitter.com/liamosaur/status/506975850596536320),
 that corrects errors in previous console commands.
+
+This is a fork of another project that is ngfw. I call it "The Good Place" Fork. At this time it is a work in progress.
+For obvious reasons I cannot mention the forked repo's name.
 
 
 Is *The Fuck* too slow? [Try the experimental instant mode!](#experimental-instant-mode)
